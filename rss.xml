@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[OutoftheFireStudio]]></title>
-        <description><![CDATA[OutoftheFireStudio]]></description>
+        <title><![CDATA[Out of the Fire Studio Stoneware Pottery]]></title>
+        <description><![CDATA[Out of the Fire Studio Stoneware Pottery]]></description>
         <link>https://thegrid.ai/outofthefirestudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Oct 2015 21:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2015 21:24:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/outofthefirestudio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to our pottery studio.]]></title>
+            <description><![CDATA[<h1>Welcome to our pottery studio.</h1>]]></description>
+            <link>https://thegrid.ai/outofthefirestudio/welcome-to-our-pottery-studio/index.html</link>
+            <guid isPermaLink="false">b9b08fc2-7048-4fdd-bb2e-1d9fa11a9aab</guid>
+            <pubDate>Thu, 15 Oct 2015 21:15:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://outofthefirestudio.com/images/mugs/two%20tea%20mugs_resize.jpg">]]></description>
@@ -15,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://outofthefirestudio.com/images/mugs/indentmugmm.jpg">]]></description>
+            <description><![CDATA[<img src="http://outofthefirestudio.com/images/mugs/indentmugmm.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/outofthefirestudio/this-stoneware-pottery-mug-has-an-indented-hand-hold-area-an/index.html</link>
             <guid isPermaLink="false">4c9263f3-69de-4125-99de-db3dece473c9</guid>
-            <pubDate>Thu, 15 Oct 2015 21:09:03 GMT</pubDate>
+            <pubDate>Thu, 15 Oct 2015 21:23:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,13 +68,6 @@
             <link>https://thegrid.ai/outofthefirestudio/fd6bd88d-a178-4eaf-a588-cb260cad98fe/index.html</link>
             <guid isPermaLink="false">fd6bd88d-a178-4eaf-a588-cb260cad98fe</guid>
             <pubDate>Thu, 15 Oct 2015 20:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to our pottery studio.]]></title>
-            <description><![CDATA[<h1>Welcome to our pottery studio.</h1>]]></description>
-            <link>https://thegrid.ai/outofthefirestudio/welcome-to-our-pottery-studio/index.html</link>
-            <guid isPermaLink="false">b9b08fc2-7048-4fdd-bb2e-1d9fa11a9aab</guid>
-            <pubDate>Thu, 15 Oct 2015 20:43:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
