@@ -1,17 +1,23 @@
 ---
-description: These stoneware pottery mugs are perfect for the real serious coffee drinker. Full sized handles . Microwave and dishwasher safe. Designed with either a straigh
-author: []
-datePublished: '2015-10-15T21:06:04.564Z'
-publisher:
-  domain: outofthefirestudio.com
-  name: outofthefirestudio.com
-title: ''
-dateModified: '2015-10-15T21:05:31.575Z'
-sourcePath: _posts/2015-10-15-these-stoneware-pottery-mugs-are-perfect-for-the-real-seriou.md
-published: true
 inFeed: true
 hasPage: true
 inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: These stoneware pottery mugs are perfect for the real serious coffee drinker. Full sized handles . Microwave and dishwasher safe. Designed with either a straigh
+datePublished: '2015-10-15T21:24:09.326Z'
+dateModified: '2015-10-15T21:24:05.831Z'
+author: []
+title: ''
+sourcePath: _posts/2015-10-15-these-stoneware-pottery-mugs-are-perfect-for-the-real-seriou.md
+published: true
+authors: []
+publisher:
+  name: outofthefirestudio.com
+  domain: outofthefirestudio.com
+  url: null
+  favicon: null
 url: these-stoneware-pottery-mugs-are-perfect-for-the-real-seriou/index.html
 _context: 'http://schema.org'
 _type: Article
