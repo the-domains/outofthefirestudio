@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: This stoneware pottery mug has an indented hand hold area and no projecting handle. Warms cold fingers and fits in cup holders. Microwave and dishwasher safe. A
-datePublished: '2015-10-15T21:23:21.337Z'
-dateModified: '2015-10-15T21:22:59.919Z'
+datePublished: '2015-10-16T04:22:42.988Z'
+dateModified: '2015-10-16T04:22:33.710Z'
 author: []
 title: ''
 sourcePath: _posts/2015-10-15-this-stoneware-pottery-mug-has-an-indented-hand-hold-area-an.md
