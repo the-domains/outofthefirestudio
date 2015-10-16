@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'This large stoneware casserole dish is traditiionally shaped, holds approximately three quarts (U.S.) and is perfect for that oven baked meal your family loves.'
-datePublished: '2015-10-15T21:24:57.767Z'
-dateModified: '2015-10-15T21:24:54.132Z'
+datePublished: '2015-10-16T04:23:40.077Z'
+dateModified: '2015-10-16T04:23:36.494Z'
 author: []
 title: ''
 sourcePath: _posts/2015-10-15-this-large-stoneware-casserole-dish-is-traditiionally-shaped.md
