@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Everyone has a favourite mug and once you've found it you'll never want to let it go, with or without handles!    Our Mike mug is a traditional round wheel thro"
-datePublished: '2015-10-15T21:53:04.202Z'
-dateModified: '2015-10-15T21:24:33.755Z'
+datePublished: '2015-10-16T04:23:19.093Z'
+dateModified: '2015-10-16T04:23:14.937Z'
 author: []
 title: ''
 sourcePath: _posts/2015-10-15-everyone-has-a-favourite-mug-and-once-youve-found-it-youll.md
